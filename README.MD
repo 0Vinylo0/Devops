@@ -13,7 +13,7 @@
 
 ## Referencias
 
-Gracias a ***Manuel Domínguez*** y ***ChatGPT***
+Gracias a [***Manuel Domínguez***](https://github.com/mftienda) y ***ChatGPT***
 
 ## Licencia
 
